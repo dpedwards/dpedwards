@@ -16,6 +16,17 @@
   <img src="https://ghchart.rshah.org/409ba5/dpedwards" alt="GitHub Contribution Chart" />
 </div>
 
+<div align="center">
+  <!-- Shows detailed contribution timeline including org work -->
+  <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpedwards&theme=dracula" alt="Contribution Graph"/>-->
+  
+  <!-- Shows commit stats from all sources -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dpedwards&theme=dracula&utcOffset=1" height="180" alt="Productive Time"/>
+  
+  <!-- Shows repos by commit count including org repos -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpedwards&theme=dracula" height="180" alt="Repos Per Language"/>
+</div>
+
 ###
 
 <!--<img align="right" height="150" src="https://gist.github.com/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif"  />-->
