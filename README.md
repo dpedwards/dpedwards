@@ -3,8 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpedwards&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpedwards&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpedwards&theme=dracula" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpedwards&theme=dracula" height="150" alt="Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dpedwards&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&theme=dracula" height="150" alt="stats graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpedwards&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/dpedwards" alt="GitHub Contribution Chart" />
 </div>
 
 ###
