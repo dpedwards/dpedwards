@@ -12,9 +12,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpedwards&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://ghchart.rshah.org/409ba5/dpedwards" alt="GitHub Contribution Chart" />
-</div>
+</div>-->
 
 <div align="center">
   <!-- Shows detailed contribution timeline including org work -->
